@@ -1,0 +1,6 @@
+com/simple/Application.class
+com/simple/controller/MainController.class
+com/simple/dao/TaskRepository.class
+com/simple/service/TaskService.class
+com/simple/controller/SampleRestController.class
+com/simple/model/Task.class
